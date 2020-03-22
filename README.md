@@ -1,2 +1,0 @@
-# ExemploInicialOpenlayers
-Created with CodeSandbox
